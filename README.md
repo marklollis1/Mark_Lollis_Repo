@@ -1,2 +1,3 @@
 # Mark_Lollis_Repo
-This repository contains various project files/documents for Mark Lollis 
+This is the file for Project 1_Mark Lollis 
+
