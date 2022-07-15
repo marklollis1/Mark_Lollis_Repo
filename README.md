@@ -55,6 +55,7 @@ The playbook implements the following tasks:
 ●	Install Docker and Python3-Pip
 ●	Increases virtual memory
 ●	Download ELK container
+
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance: 
  ![image](https://user-images.githubusercontent.com/98366091/179126659-181a882d-2a58-42e0-a5d0-a1b5e07e1ca7.png)
 
