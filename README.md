@@ -3,7 +3,8 @@ This repository contains various project files/documents for Mark Lollis
 Project 1 Explanation 
 
 ELK Stack Deployment
- 
+ ![image](https://user-images.githubusercontent.com/98366091/179126024-da6da944-8208-4a38-932a-7739e1c90ec5.png)
+
 
 The following files have been used to generate an ELK Stack Deployment. These files can be used to recreate the Network Diagram (shown in the Network Diagram above) or used to install specific portions of the network diagram. 
 ●	https://github.com/marklollis1/Mark_Lollis_Repo/blob/main/Ansible%20YAML/ansible.cfg.TXT
